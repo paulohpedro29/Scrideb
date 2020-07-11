@@ -6,12 +6,12 @@
         #                                                                   #
         #   Criador/Atualizador: Paulo Henrique Pedro                       #
         #   Facebook: https://www.facebook.com/Paulohpedro21                #
-	    #   Instagram: https://www.instagram.com/paulohpedro/?hl=pt-br      #
-	    #   Twittwer: https://twitter.com/PaulohPedro25?lang=pt             #                                         
+        #   Instagram: https://www.instagram.com/paulohpedro/?hl=pt-br      #
+	#   Twittwer: https://twitter.com/PaulohPedro25?lang=pt             #                                         
         #                                                                   #
-	    #                                                                   #
+	#                                                                   #
         #   E-mail: paulohpedro73@gmail.com                                 #
-	    #                                                                   #
+	#                                                                   #
         #  Versão:0.5                                                       #
 	    #####################################################################                                      
             
